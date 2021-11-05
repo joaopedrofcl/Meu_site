@@ -1,1 +1,0 @@
-window.document.write('koe rapaziada')
