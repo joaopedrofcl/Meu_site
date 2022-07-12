@@ -3,7 +3,7 @@ import React from 'react'
 
 function App() {
 return(
-    <div>Testando essa porra</div>
+    <div>Testando o app</div>
 )
 }
 
